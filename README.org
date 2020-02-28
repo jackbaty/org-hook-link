@@ -1,0 +1,5 @@
+* Org-hook
+
+Creates a new "hook" link type for Org mode for use with Hook app on macOS
+
+
